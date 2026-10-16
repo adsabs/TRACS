@@ -1,0 +1,17 @@
+# Starting dependency list; exact historical run versions must be recorded separately.
+datasets
+tqdm
+wandb
+torch
+transformers
+accelerate
+sentencepiece
+protobuf
+google-genai
+anthropic
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyterlab
